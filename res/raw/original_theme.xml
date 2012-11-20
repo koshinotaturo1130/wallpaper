@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<original_theme>
+    
+	<folder  
+		id="folder1"	    
+		name="アンパンマン"
+		description="アンパンマンシリーズ"
+		image="folder1.jpg" >
+	
+<theme	id="theme1_1"
+		name="あんぱんまん"
+		description="theme1_1: 説明文"
+		image="theme_1_1.jpg"
+		tmb_image="tmb_theme_1_1.jpg" />
+
+<theme	id="theme1_2"
+		name="ドキンちゃん"
+		description="theme1_2: 説明文"
+		image="theme_1_2.jpg"
+		tmb_image="tmb_theme_1_2.jpg" />
+
+<theme	id="theme1_3"
+		name="ホラーマン"
+		description="theme1_3: 説明文"
+		image="theme_1_3.jpg"
+		tmb_image="tmb_theme_1_3.jpg" />
+
+<theme	id="theme1_4"
+		name="メロンパンナ"
+		description="theme1_4: 説明文"
+		image="theme_1_4.jpg"
+		tmb_image="tmb_theme_1_4.jpg" />
+
+<theme	id="theme1_5"
+		name="ロールパンナ"
+		description="theme1_5: 説明文"
+		image="theme_1_5.jpg"
+		tmb_image="tmb_theme_1_5.jpg" />
+
+<theme	id="theme1_6"
+		name="おむすびまん"
+		description="theme1_6: 説明文"
+		image="theme_1_6.jpg"
+		tmb_image="tmb_theme_1_6.jpg" />
+
+<theme	id="theme1_7"
+		name="ばいきんまん"
+		description="theme1_7: 説明文"
+		image="theme_1_7.jpg"
+		tmb_image="tmb_theme_1_7.jpg" />
+
+<theme	id="theme1_8"
+		name="カレーパンマン"
+		description="theme1_8: 説明文"
+		image="theme_1_8.jpg"
+		tmb_image="tmb_theme_1_8.jpg" />
+
+<theme	id="theme1_9"
+		name="しょくぱんまん"
+		description="theme1_9: 説明文"
+		image="theme_1_9.jpg"
+		tmb_image="tmb_theme_1_9.jpg" />
+  	    	    
+   	</folder>
+
+	<folder  
+		id="folder2"	    
+		name="マリオ"
+		description="スーパーマリオシリーズ"
+		image="folder2.jpg" >
+	
+<theme	id="theme2_1"
+		name="ルイージ"
+		description="theme2_1: description"
+		image="theme_2_1.jpg"
+		tmb_image="tmb_theme_2_1.jpg" />
+
+<theme	id="theme2_2"
+		name="ヨッシー"
+		description="theme2_2: description"
+		image="theme_2_2.jpg"
+		tmb_image="tmb_theme_2_2.jpg" />
+
+<theme	id="theme2_3"
+		name="クッパ"
+		description="theme2_3: description"
+		image="theme_2_3.jpg"
+		tmb_image="tmb_theme_2_3.jpg" />
+
+<theme	id="theme2_4"
+		name="マリオ"
+		description="theme2_4: description"
+		image="theme_2_4.jpg"
+		tmb_image="tmb_theme_2_4.jpg" />
+
+<theme	id="theme2_5"
+		name="ピーチ"
+		description="theme2_5: description"
+		image="theme_2_5.jpg"
+		tmb_image="tmb_theme_2_5.jpg" />
+   	    
+   	</folder>
+
+		<folder
+		id="folder3"
+		name="その他"
+		description="寄せあつめ"
+		image="" >
+
+		<theme
+			id="theme3-1:id"
+			name="theme3-1:name"
+			description="theme3-1: description"
+			image="theme3-1:image" />
+
+		<theme
+			id="theme3-2:id"
+			name="theme3-2: image"
+			description="theme3-2: description"
+			image="theme3-2: image"
+			/>
+
+	</folder>
+			    	    	    
+</original_theme>    

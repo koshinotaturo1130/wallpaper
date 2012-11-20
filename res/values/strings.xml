@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Wallpaper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- テスト -->
+    <string name="st_button1">test1</string>
+    <string name="st_test_folder_name">フォルダ名</string>
+    <string name="st_test_bt_folder_list_page" >フォルダ一覧画面へ</string>
+    <string name="st_test_bt_theme_list_page" >テーマ一覧画面へ</string>
+    <string name="st_test_bt_photo_list_page" >画像一覧画面へ</string>
+    <string name="st_test_bt_frame_test_page" >フレームテスト画面へ</string>
+    <string name="st_test_bt_top" >トップ画面</string>
+    
+    <!-- 画像 description -->
+    <string name="st_img_desc_logo" >logo</string>
+    
+    
+    <!-- 汎用文言 -->
+    <string name="st_common_original_theme">オリジナルテーマ</string>
+    <string name="st_common_custom_theme" >カスタムテーマ</string>
+    
+    
+    <!-- TOP画面ネタ -->
+    <string name="st_top_on_off_button" >ON/OFF</string>
+    <string name="st_top_select_theme_button" >テーマを選ぶ</string>
+    <string name="st_top_create_theme_button" >カスタムテーマを作成する</string>
+    <string name="st_top_download_button" >ダウンロード</string>
+        
+    <string name="st_select_original_theme_button">オリジナルテーマ</string>
+    <string name="st_select_custom_theme_button">カスタムテーマ</string>
+    
+    
+    <!-- カスタム画像選択画面 -->
+    <string name="st_photo_select_title" >画像選択</string>
+    
+    
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:key="switch" android:enabled="false" android:summary="覗き見防止機能のON/OFF" android:selectable="false" android:title="スクリーン設定" android:order="1"/>
+    
+
+</PreferenceScreen>

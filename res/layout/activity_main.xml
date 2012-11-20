@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/layout_main_linear"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fractal_brush"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button_test1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:layout_margin="10dp"
+         android:background="@drawable/bt_white"
+         android:padding="10dp"
+        android:text="@string/st_test_bt_photo_list_page" />
+
+    <Button
+        android:id="@+id/layout_main_button_folder_list"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:layout_margin="10dp"
+         android:background="@drawable/bt_white"
+         android:padding="10dp"
+        android:text="@string/st_test_bt_folder_list_page" />
+
+    <Button
+         android:id="@+id/layout_main_button_theme_list"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:layout_margin="10dp"
+         android:background="@drawable/bt_white"
+         android:padding="10dp"
+         android:text="@string/st_test_bt_theme_list_page" />
+
+    <Button
+         android:id="@+id/layout_main_button_frame_test"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:layout_margin="10dp"
+         android:background="@drawable/bt_white"
+         android:padding="10dp"
+         android:text="@string/st_test_bt_frame_test_page" />
+
+    <Button
+         android:id="@+id/layout_main_button_top"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:layout_margin="10dp"
+         android:background="@drawable/bt_white"
+         android:padding="10dp"
+         android:text="@string/st_test_bt_top" />
+    
+</LinearLayout>
